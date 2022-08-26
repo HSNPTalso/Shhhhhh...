@@ -4,6 +4,7 @@ image.onclick = function() {
     let src = image.getAttribute('src');
     if(src === '呼叫.gif') {
       image.setAttribute('src', '嗷.png');
+      alert('被神秘力量点击(°Д°≡°Д°)！！不敢动不敢动')
     } else {
       image.setAttribute('src', '呼叫.gif');
     }
