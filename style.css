@@ -2,7 +2,6 @@ p{
  color:red;
  }
 img[src]{
-  display:block;
   background:red;
   width:800px;
   height:450px;
@@ -11,7 +10,7 @@ img[src]{
   text-algin:center;
   }
 h1{
+ font-size:50px;
  text-align:center;
- width:800px;
  margin:50px;
   }
