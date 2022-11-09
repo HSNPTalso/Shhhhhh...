@@ -1,0 +1,54 @@
+html{
+  width:1000px;
+  }
+p{
+  color:red;
+  }
+img[id="龙泡年呼叫"]{
+  background:red;
+  width:800px;
+  height:450px;
+  margin:50px;
+  padding:50px;
+  }
+header{
+  height:100px;
+  }
+img[id="年肖像"]{
+  display:inline;
+  margin-left:262px;
+  margin-top:50px;
+  width:88px;
+  height:50px;
+  }
+#标题{
+  display:inline;
+  color:black;
+  margin-top:50px;
+  margin-right:250px;
+  font-size:50px;
+  }
+a{
+  display:block;
+  width:900px;
+  font-size:25px;
+  text-align:center;
+  }
+button{
+  margin-left:40px;
+  background:gainsboro;
+  }
+footer{
+  text-align:center;
+  }
+b{
+  color:grey;
+  }
+#图标{
+  background-color:grey;
+  }
+#云{
+  margin-top:5px;
+  width:50px;
+  height:50px;
+  }
